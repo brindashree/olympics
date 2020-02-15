@@ -1,0 +1,4 @@
+﻿CREATE TABLE result
+(
+	[slno] INT NOT NULL PRIMARY KEY IDENTITY
+)
